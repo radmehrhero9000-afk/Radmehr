@@ -1,47 +1,55 @@
 
+<!DOCTYPE html>
 <html>
     <head>
-        <title>سایت شخصی رادمهر</title>
-        <link rel="icon" type="image/png" href="download (1).png">
+        <meta charset="UTF-8">
+        <title>معرفی رادمهر</title>
     </head>
 
     <body style="background-color: rgb(100, 123, 255);">
 
         <header style="background-color: rgb(38, 98, 133); text-align:center;">
-            <h1>سایت شخصی من</h1>
-            <p style="font-family: Tahoma;">Welcome to my world!</p>
+            <h1>سلام، من رادمهر هستم!</h1>
+            <p>به صفحه شخصی من خوش آمدید!</p>
         </header>
 
-        <nav style="text-align:center; background-color: lightblue; padding: 15px;">
-            <a href="#">صفحه اصلی</a>
-            &nbsp;&nbsp;&nbsp;
-            <a href="#about">درباره من</a>
-            &nbsp;&nbsp;&nbsp;
-            <a href="#interests">علاقه‌مندی‌های من</a>
-        </nav>
+        <section style="text-align:center;">
 
-        <section id="about" style="text-align:center;">
-            <h2 style="color: white;">سلام! من رادمهر هستم 👋</h2>
-
-            <img src="download (1).png" alt="تصویر من" width="200">
+            <h2 style="color: white;">درباره من 👋</h2>
 
             <p style="color: white; font-size: 20px;">
-                من یک دانش‌آموز هستم که به دنیای تکنولوژی علاقه دارم!
+                سلام، من رادمهر هستم.
+                <br>
+                من یک پسر ایرانی هستم. 🇮🇷
             </p>
+
+            <p style="color: yellow; font-size: 20px;">
+                من به چیزهای زیادی علاقه دارم، از جمله:
+            </p>
+
+            <p style="color: white; font-size: 18px;">
+                🎮 ماینکرفت
+                <br>
+                🎹 پیانو
+                <br>
+                💻 برنامه‌نویسی
+                <br>
+                ⭐ و خیلی چیزهای دیگر!
+            </p>
+
+            <p style="color: white; font-size: 20px;">
+                من ۱۱ ساله هستم و در کلاس ششم درس می‌خوانم.
+                <br>
+                چند تا دوست خیلی پرحرف و عجیب‌وغریب هم دارم! 😂
+            </p>
+
+            <hr>
+
+            <h2 style="color: yellow;">
+                خیلی خوشحالم که با من آشنا شدی! 💙
+            </h2>
+
         </section>
-
-        <section id="interests" style="background-color: lightblue; text-align:center;">
-            <h2 style="color: darkblue;">علاقه‌مندی‌های من 🎮</h2>
-
-            <p>⛏️ بازی Minecraft</p>
-            <p>💻 برنامه‌نویسی و طراحی سایت</p>
-            <p>🎹 نواختن پیانو</p>
-            <p>👻 ساخت داستان‌های ترسناک</p>
-        </section>
-
-        <footer style="background-color: rgb(38, 98, 133); text-align:center; color:white;">
-            <p>ساخته شده توسط رادمهر</p>
-        </footer>
 
     </body>
 </html>
