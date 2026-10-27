@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
     <head>
         <title>سایت شخصی رادمهر</title>
