@@ -40,7 +40,7 @@
         </section>
 
         <footer style="background-color: rgb(38, 98, 133); text-align:center; color:white;">
-            <p>ساخته شده با ❤️ توسط رادمهر</p>
+            <p>ساخته شده توسط رادمهر</p>
         </footer>
 
     </body>
